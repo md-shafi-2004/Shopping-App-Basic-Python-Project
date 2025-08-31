@@ -84,7 +84,7 @@ daraz.add_customer(c4)
 daraz.add_customer(c5)
 daraz.add_customer(c6)
 
-#create product
+#create products
 p1=Product("Mobile",100)
 p2=Product("Mobile",200)
 p3=Product("Laptop",10)
